@@ -1,19 +1,19 @@
-# 🌅 Daily Digest for 2025-08-17
+# 🌅 Daily Digest for 2025-08-18
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Sunny, Temp: +27°C, Wind: ↖6km/h, Humidity: 79%
-> 「台北目前的天氣是晴朗的，氣溫為27°C，風速為6公里每小時，濕度為79%。這樣的天氣適合戶外活動，但可能會感覺有些悶熱，因此建議保持適當的水分補充，並在陽光下待時間過長時注意防曬。若有任何特殊活動計畫，可以考慮早上或傍晚時段進行，當時氣溫較為涼爽。」
+📍 Taipei 天氣：Weather: Clear, Temp: +27°C, Wind: ↖8km/h, Humidity: 84%
+> 「台北目前的天氣非常晴朗，氣溫為27°C，感覺會比較悶熱，因為濕度達到84%。風速為每小時8公里，稍微有些涼爽。建議穿著輕薄舒適的衣物，並適時補充水分，以應對高溫和高濕度的氣候。如果有外出計劃，亦可考慮在涼爽的時候出行，例如早晨或傍晚。」
 
 ## 💬 人生建議
-保持良好的自我管理習慣是提升生活質量的重要一環。試著每天設立小目標，無論是工作、學習還是健康方面，並制定計劃以實現這些目標。這不僅能增加你的效率，還能讓你在達成目標的過程中增強自信心。同時，記得給自己一些休息和放鬆的時間，保持身心健康才是長久之計。
+保持健康的生活方式，包括均衡的飲食、定期運動和充足的睡眠，對於身心健康至關重要。這不僅能提高你的工作效率，還能改善情緒和增強免疫系統。每週至少運動150分鐘，並確保你攝取多種不同的蔬果和穀類，從而為自己建立一個可持續的健康習慣。
 
 ## 🧠 冷知識一則
-你知道嗎？世界上最大的沙漠其實是南極洲，而不是撒哈拉沙漠！雖然撒哈拉沙漠是著名的熱帶沙漠，但南極洲的降水量極少，因此被科學家們分類為寒冷沙漠。南極洲的面積約為1400萬平方公里，遠超過撒哈拉沙漠的約900萬平方公里！
+你知道嗎？樹木其實也會“溝通”。研究發現，樹木能透過地下的真菌網絡交換養分和信息，這種網絡被稱為“木網絡”。樹木會將多餘的碳水化合物傳遞給周圍的樹木，尤其是那些處於需氧困境中的樹木。這樣的協作使得整片森林能夠在不同的環境條件下共同生存。
 ## 💱 今日匯率
 💱 美元兌台幣現金買入價：29.59
 
 🔥 GitHub Trending 今日熱門：
 - [coleam00/Archon](https://github.com/coleam00/Archon): Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-- [microsoft/poml](https://github.com/microsoft/poml): Prompt Orchestration Markup Language
-- [LMCache/LMCache](https://github.com/LMCache/LMCache): Supercharge Your LLM with the Fastest KV Cache Layer
+- [emcie-co/parlant](https://github.com/emcie-co/parlant): LLM agents built for control. Designed for real-world use. Deployed in minutes.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps): Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 
