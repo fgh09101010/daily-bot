@@ -1,19 +1,19 @@
-# 🌅 Daily Digest for 2025-08-24
+# 🌅 Daily Digest for 2025-08-25
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Thundery outbreaks in nearby, Temp: +28°C, Wind: ↑5km/h, Humidity: 84%
-> 「台北目前的天氣顯示有雷陣雨的可能性，氣溫為28°C，風速為5公里每小時，濕度達84%。這意味著天氣比較悶熱，且降雨機率較高。建議出門時攜帶雨具，並注意天氣變化，以免被雷陣雨驚嚇到。保持水分攝取也很重要，特別是在這樣的高濕度環境中。」
+📍 Taipei 天氣：Weather: Thundery outbreaks in nearby, Temp: +28°C, Wind: ↖4km/h, Humidity: 74%
+> 「目前台北的天氣顯示有雷陣雨的可能，氣溫為28°C，風速較輕，為4公里每小時，濕度相對較高，達74%。這樣的天氣條件可能會讓人感到悶熱，建議在外活動時保持適當防曬與攜帶雨具，以備不時之需。同時，也要注意防範雷雨帶來的突發天氣變化。」
 
 ## 💬 人生建議
-設定小目標並慶祝每個成就。無論是學習新技能、健身還是改善人際關係，將大目標拆分為可管理的小步驟，能讓你更容易看到進展，並保持動力。每達成一個小目標，就獎勵自己，這樣能促進積極的心態，讓你在持續追求更大目標的過程中感到愉快。
+設定明確的目標，然後將其分解為小步驟。這樣不僅能讓你更容易實現自己的努力，還能在每完成一個小步驟時給予自己成就感和動力。無論是在工作、學業還是個人生活中，明確的方向和分階段的計劃都能幫助你更有效地前進。
 
 ## 🧠 冷知識一則
-有趣的冷知識是，章魚的心臟有三個！其中兩個心臟負責將血液泵送到鰓中以進行氧合，而第三個心臟則將氧合後的血液送往全身。當章魚游泳時，負責全身供血的心臟會暫時停止運作，這使得它們在游泳時變得較為疲憊，因而更喜歡爬行而非游泳！
+你知道嗎？在古代埃及，貓被視為神聖的動物，甚至有法律保護牠們。若有人故意傷害或殺死貓，被捕後可能會面臨死刑。當貓去世時，家庭會為牠們舉行隆重的葬禮，並時常將牠們的遺體製作成木乃伊，以此表達對牠們的敬愛和尊重。貓在古埃及文化中象徵著保護與繁榮。
 ## 💱 今日匯率
 💱 美元兌台幣現金買入價：30.185
 
 🔥 GitHub Trending 今日熱門：
+- [winapps-org/winapps](https://github.com/winapps-org/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/
 - [moeru-ai/airi](https://github.com/moeru-ai/airi): 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-- [plait-board/drawnix](https://github.com/plait-board/drawnix): 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-- [Budibase/budibase](https://github.com/Budibase/budibase): Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+- [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
 
