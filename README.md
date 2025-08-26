@@ -1,19 +1,19 @@
-# 🌅 Daily Digest for 2025-08-25
+# 🌅 Daily Digest for 2025-08-26
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Thundery outbreaks in nearby, Temp: +28°C, Wind: ↖4km/h, Humidity: 74%
-> 「目前台北的天氣顯示有雷陣雨的可能，氣溫為28°C，風速較輕，為4公里每小時，濕度相對較高，達74%。這樣的天氣條件可能會讓人感到悶熱，建議在外活動時保持適當防曬與攜帶雨具，以備不時之需。同時，也要注意防範雷雨帶來的突發天氣變化。」
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +83°F, Wind: ↖4mph, Humidity: 79%
+> 「根據您提供的天氣資訊，台北的天氣為多雲，氣溫為83華氏度（約28攝氏度），風速4英里每小時，濕度為79%。這樣的天氣相對潮濕且溫暖，可能會讓人感覺有些悶熱。建議您穿著輕便透氣的衣物，並隨時補充水分，以應對高濕度的情況。如果有戶外活動，建議攜帶雨具以防突如其來的降雨。」
 
 ## 💬 人生建議
-設定明確的目標，然後將其分解為小步驟。這樣不僅能讓你更容易實現自己的努力，還能在每完成一個小步驟時給予自己成就感和動力。無論是在工作、學業還是個人生活中，明確的方向和分階段的計劃都能幫助你更有效地前進。
+設立一個健康的日常習慣，例如每週至少運動三次，每次30分鐘，這不僅能改善你的身體健康，還能提升心理狀態。運動不必過於劇烈，散步、瑜伽或游泳都是不錯的選擇。定期運動能幫助減壓、提高專注力，並增強整體的生活質量。重要的是要找到你喜歡的活動，這樣才能更容易堅持下去。
 
 ## 🧠 冷知識一則
-你知道嗎？在古代埃及，貓被視為神聖的動物，甚至有法律保護牠們。若有人故意傷害或殺死貓，被捕後可能會面臨死刑。當貓去世時，家庭會為牠們舉行隆重的葬禮，並時常將牠們的遺體製作成木乃伊，以此表達對牠們的敬愛和尊重。貓在古埃及文化中象徵著保護與繁榮。
+在19世紀，某些法律規定人們可以通過“半途而廢”來解決婚姻問題。這意味著，如果一位配偶在結婚後的頭六個月內沒有發生性關係，另一方可以要求解除婚姻，這被認為是一種合法的理由。這項法律在某些地區仍然存在，反映了當時社會對婚姻的看法和期待。
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：30.185
+💱 美元兌台幣現金買入價：30.035
 
 🔥 GitHub Trending 今日熱門：
-- [winapps-org/winapps](https://github.com/winapps-org/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/
-- [moeru-ai/airi](https://github.com/moeru-ai/airi): 💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+- [plait-board/drawnix](https://github.com/plait-board/drawnix): 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode): "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+- [winapps-org/winapps](https://github.com/winapps-org/winapps): Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork ofhttps://github.com/Fmstrat/winapps/
 
