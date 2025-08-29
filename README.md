@@ -1,26 +1,19 @@
-# 🌅 Daily Digest for 2025-08-28
+# 🌅 Daily Digest for 2025-08-29
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +90°F, Wind: ↖6mph, Humidity: 63%
-> 「台北的天氣情況如下：
-
-- **天氣**: 多雲
-- **溫度**: 約 32°C（90°F）
-- **風速**: 約 10 公里每小時（6mph），風向來自西北方向
-- **濕度**: 63%
-
-這種氣候條件下，建議多喝水以保持水分，並考慮適合的服裝以應對熱和濕度。若有外出計劃，記得攜帶陽傘或防曬用品！如果還有其他問題，隨時告訴我！」
+📍 Taipei 天氣：Weather: Clear, Temp: +28°C, Wind: ↖11km/h, Humidity: 79%
+> 「台北的天氣條件顯示，現在是晴天，氣溫為28°C，風速為11公里每小時，濕度為79%。這樣的天氣會讓人感覺比較熱而且潮濕，特別是在陽光直射的時候。如果你計畫外出，建議穿著輕薄透氣的衣物，同時多補充水分，以便保持舒適。如果有計畫進行戶外活動，注意防曬和避免中午時分的高溫時間。」
 
 ## 💬 人生建議
-學會設置界限。無論是在工作、家庭還是社交關係中，清楚地表達你的需求和界限，可以幫助你維護自己的心理健康，增強人際關係的質量。不要害怕告訴他人你的底線，這樣可以減少不必要的壓力和摩擦，讓你的人生更加平衡和滿足。
+學會管理時間和設定優先級是提升人生效率和滿足感的關鍵。可以試著使用「四象限法則」來幫助你分類任務：將任務分為緊急且重要、重要但不緊急、緊急但不重要、以及既不緊急也不重要。這樣你可以更明確地知道哪些事情需要優先處理，哪些可以推遲或委派他人。這樣不僅能幫助你專注於真正重要的事，還能減少壓力，提升生活質量。
 
 ## 🧠 冷知識一則
-你知道嗎？地球上每年會經歷約兩萬萬次的雷電擊打！這意味著平均每秒鐘就會有約100次雷電擊打，那些閃電的威力驚人，單次的電流可以高達數十萬安培，足以將一棵樹劈成兩半！而且，雷電的溫度可以高達攝氏30,000度，熱度甚至比太陽的表面還要高！這些自然力量令人驚嘆，但同時也提醒著我們對大自然的敬畏。
+你知道嗎？章魚的心臟有三個！其中兩個心臟負責將血液泵送到鰓，讓它們獲得氧氣，而第三個心臟則將氧氣豐富的血液送到身體的其他部分。有趣的是，當章魚游泳時，其中一個心臟會停止跳動，因此它們通常更喜歡爬行而不是游泳，以節省能量。
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：30.17
+💱 美元兌台幣現金買入價：30.18
 
 🔥 GitHub Trending 今日熱門：
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks): Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-- [plait-board/drawnix](https://github.com/plait-board/drawnix): 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
+- [Canner/WrenAI](https://github.com/Canner/WrenAI): ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
+- [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker): Secure and fast microVMs for serverless computing.
 
