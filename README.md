@@ -1,19 +1,19 @@
-# 🌅 Daily Digest for 2025-08-31
+# 🌅 Daily Digest for 2025-09-01
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +79°F, Wind: ↑2mph, Humidity: 84%
-> 「台北的天氣是多雲，氣溫為79華氏度（約26攝氏度），風速為每小時2英里，濕度達到84%。這樣的天氣條件通常會感到比較潮濕，建議出門時可以穿著輕便的衣物，並準備好防曬措施！如果有外出計畫，注意天氣變化，保持水分哦！」
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +28°C, Wind: ↖4km/h, Humidity: 79%
+> 「台北的天氣目前是部分多雲，氣溫約為28°C，風速為4公里每小時，濕度則為79%。這種天氣通常會讓人感到悶熱，建議在戶外活動時要注意防曬並保持水分。如果有進一步的要詢問，請隨時告訴我！」
 
 ## 💬 人生建議
-每週花一些時間進行自我反思和目標設定，可以幫助你更清晰地了解自己的需求和夢想。選擇一個安靜的地方，寫下你過去一週的成就與挑戰，並設定下週的具體目標。這樣不僅能提升你的自我認識，還能幫助你更有方向感地前進。
+要保持心理健康和提升幸福感，請定期抽出時間進行自我反思。可以透過寫日記、冥想或簡單的散步來放鬆心情，這不僅有助於釐清自己的思緒，還能提高自我意識，讓你更清楚自己的需求與目標。持之以恆地進行這些活動，將有助於增強你的內心韌性和生活的滿意度。
 
 ## 🧠 冷知識一則
-在1969年，人類首次登陸月球時，宇航員來到月球的時候帶了一種特別的東西——一包月球的土壤和岩石樣本，這些樣本在地球的實驗室中進行了分析。然而，由於安全考量，NASA在返回地球後將樣本封存了幾十年，直到1993年才將它們重新開放給科學家進行研究，這些樣本至今仍然提供著對月球形成和歷史的重要見解。
+你知道嗎？人的鼻子可以識別超過一萬種不同的氣味，但大多數人無法準確地回憶起之前聞過的氣味。這是因為氣味的記憶往往與情緒和經驗緊密相連，所以某些氣味會喚起強烈的回憶，而其他的則容易被遺忘。
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：30.19
+💱 美元兌台幣現金買入價：30.195
 
 🔥 GitHub Trending 今日熱門：
-- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): An open source payments switch written in Rust to make payments fast, reliable and affordable
-- [inventree/InvenTree](https://github.com/inventree/InvenTree): Open Source Inventory Management System
-- [microsoft/mcp](https://github.com/microsoft/mcp): Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
+- [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit): Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+- [dockur/windows](https://github.com/dockur/windows): Windows inside a Docker container.
+- [laramies/theHarvester](https://github.com/laramies/theHarvester): E-mails, subdomains and names Harvester - OSINT
 
