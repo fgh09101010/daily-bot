@@ -1,19 +1,19 @@
-# 🌅 Daily Digest for 2025-09-08
+# 🌅 Daily Digest for 2025-09-09
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +27°C, Wind: →4km/h, Humidity: 84%
-> 「台北目前的天氣為部分多雲，氣溫27°C，風速為4公里每小時，濕度為84%。這樣的天氣相對潮濕，建議出門時穿著輕便透氣的衣物，並適時補充水分，避免中暑。如果有外出計畫，可能帶把雨具以備不時之需，因為午後偶爾會出現雷陣雨。」
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +27°C, Wind: ↗4km/h, Humidity: 84%
+> 「在台北的天氣情況下，今天是部分多雲，氣溫為27°C，風速約4公里每小時，濕度很高，達到84%。這樣的天氣讓人感覺相當潮濕，可能會讓你覺得有些悶熱。建議穿著輕便透氣的衣物，並保持水分攝取，以應對高濕度的環境。如果有外出計劃，可以考慮攜帶雨具，以備不時之需。希望你有個愉快的一天！」
 
 ## 💬 人生建議
-保持學習的心態。無論是在職場上還是在生活中，持續學習可以幫助你不斷成長和適應變化的環境。這不僅能增強你的技能，還能拓展你的視野，讓你在面對挑戰和困難時，找到更多的解決方案。建立一個定期學習的計劃，比如閱讀書籍、參加線上課程或與他人討論，可以讓你保持對新知識的渴望和開放的心態。
+確保每天都花時間進行自我反思，無論是透過寫日記、冥想或是靜靜地思考。這能幫助你更清楚地了解自己的感受和目標，並提升自我意識，讓你在生活中做出更明智的選擇。
 
 ## 🧠 冷知識一則
-你知道嗎？蜜蜂是唯一不具備母語的昆蟲，但它們能夠用舞蹈溝通！蜜蜂會透過一種叫做「搖擺舞」的舞蹈來告訴其他蜜蜂花蜜的來源和距離。這種舞蹈的方向和時間可以精確地指示資源的位置，讓其他蜜蜂能夠有效地尋找食物。這種獨特的溝通方式是自然界中最複雜的非語言交流之一！
+你知道嗎？北極熊的皮膚其實是黑色的，而它的毛髮是透明的，但因為它們能夠反射光線，所以在陽光下看起來是白色的。這使得北極熊在冰雪環境中具有很好的隱蔽性，幫助它們獵食。
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：30.165
+💱 美元兌台幣現金買入價：30.095
 
 🔥 GitHub Trending 今日熱門：
 - [emcie-co/parlant](https://github.com/emcie-co/parlant): LLM agents built for control. Designed for real-world use. Deployed in minutes.
+- [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners): 12 Lessons to Get Started Building AI Agents
 - [zama-ai/fhevm](https://github.com/zama-ai/fhevm): FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-- [coleam00/ottomator-agents](https://github.com/coleam00/ottomator-agents): All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
 
