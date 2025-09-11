@@ -1,19 +1,19 @@
-# 🌅 Daily Digest for 2025-09-10
+# 🌅 Daily Digest for 2025-09-11
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +84°F, Wind: ↑3mph, Humidity: 79%
-> 「台北的天氣目前是局部多雲，氣溫約為84華氏度（約29攝氏度），風速為每小時3英里，濕度為79%。這樣的天氣條件相對舒適，但由於濕度較高，可能會感覺到一些悶熱。建議出門時可以輕便著裝，並隨時補充水分，以應對高溫和高濕的環境。如果有計劃進行戶外活動，建議選擇在較為涼爽的時段進行。」
+📍 Taipei 天氣：Weather: Clear, Temp: +83°F, Wind: ↗4mph, Humidity: 79%
+> 「台北的天氣目前是晴朗的，氣溫為83華氏度（約28攝氏度），風速為每小時4英里，濕度為79%。這樣的天氣適合戶外活動，但由於濕度較高，可能會感覺有些悶熱，建議多喝水以保持水分。如果有外出計劃，記得做好防曬措施！」
 
 ## 💬 人生建議
-保持學習的心態。無論在工作、生活或人際關係中，持續學習新知識和技能都能幫助你適應變化，增強自信，並提升解決問題的能力。這能讓你在困難時期更有韌性，同時也能提升你的職業競爭力。定期設定學習目標，並尋找相關的資源，例如書籍、在線課程或講座，讓自己不斷成長。
+尋找生活中的平衡是非常重要的。無論是工作與生活的平衡，還是情感與理智的平衡，都會對你的整體幸福感產生影響。嘗試每天花一點時間反思自己的優先事項，確保你在追求目標的同時，也給自己留出放鬆和充電的時間。這樣可以幫助你保持精力充沛，提升創造力和生產力。
 
 ## 🧠 冷知識一則
-在1930年代，為了推廣一種新的運動，波士頓的某些學校開始鼓勵學生參加“拳擊課程”。這項運動最初是希望能強化學生的體能和自衛能力，但後來因為不少學生受傷而被迫停止。因此，這個想法雖然短暫，但卻成為了美國體育教育史上頗具爭議的一個案例！
+你知道嗎？章魚的心臟有三個！其中一個心臟負責泵送血液到全身，另外兩個則用來將血液泵送到鰓中以獲取氧氣。更有趣的是，當章魚游泳時，主要的心臟會暫時停止跳動，這就是為什麼它們通常更喜歡爬行而不是游泳！
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：29.95
+💱 美元兌台幣現金買入價：29.87
 
 🔥 GitHub Trending 今日熱門：
-- [emcie-co/parlant](https://github.com/emcie-co/parlant): LLM agents built for control. Designed for real-world use. Deployed in minutes.
-- [Vector-Wangel/XLeRobot](https://github.com/Vector-Wangel/XLeRobot): XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+- [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi): 無描述
+- [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry): A community driven registry service for Model Context Protocol (MCP) servers.
+- [vercel/examples](https://github.com/vercel/examples): Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
 
