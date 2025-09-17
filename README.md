@@ -1,19 +1,19 @@
-# 🌅 Daily Digest for 2025-09-16
+# 🌅 Daily Digest for 2025-09-17
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +31°C, Wind: ↖8km/h, Humidity: 66%
-> 「台北的天氣目前是部分多雲，氣溫為31°C，風速為8公里每小時，濕度為66%。這個天氣條件可能會讓人感到悶熱，特別是在高濕度的影響下。如果你有外出計劃，建議攜帶水瓶並且穿著輕便的衣物。還需要注意防曬，尤其是在陽光較強的時段。」
+📍 Taipei 天氣：Weather: Clear, Temp: +29°C, Wind: ↖6km/h, Humidity: 75%
+> 「台北的天氣目前非常晴朗，氣溫為29°C，風速約為6公里每小時，濕度則為75%。這樣的天氣適合戶外活動，但建議多喝水，因為濕度較高可能會讓人感覺悶熱。如果有計劃外出，記得防曬哦！」
 
 ## 💬 人生建議
-保持一個平衡的生活方式是非常重要的。你可以嘗試每天劃出一些時間來進行運動、閱讀或靜坐冥想，這不僅能提高你的身體健康，還能增強心理的韌性和專注力。設定小目標以便於實現，並定期評估自己的進展，這樣有助於保持動力和積極性。記得與身邊的人保持良好的聯繫，這也是心理健康的一個重要方面。
+定期反思自己的目標和價值觀，無論是每月一次還是每季一次。這樣的自我檢查可以幫助你確保自己的行動與內心的期望保持一致，調整方向，並找到持續的動力。
 
 ## 🧠 冷知識一則
-你知道嗎？海星的名字來自於它的形狀，這個生物並不是魚類，而是棘皮動物。最有趣的是，海星擁有再生能力，即使失去一隻手臂，它也能夠再長出來，甚至有時候失去一隻手臂後會再生成一整隻新的海星！這使得它們成為生物再生研究的重要對象。
+你知道嗎？章魚有三顆心臟！其中兩顆心臟負責將血液泵送到鰓以氧化血液，第三顆則將氧化後的血液輸送到身體的其他部分。當章魚游泳時，為了節省能量，第三顆心臟會暫時停止運作，因此章魚在游泳時會感到疲憊，通常更喜歡爬行。
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：29.805
+💱 美元兌台幣現金買入價：29.665
 
 🔥 GitHub Trending 今日熱門：
-- [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
 - [microsoft/markitdown](https://github.com/microsoft/markitdown): Python tool for converting files and office documents to Markdown.
-- [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell): PowerShell for every system!
+- [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm): Run LLMs with MLX
+- [dataease/SQLBot](https://github.com/dataease/SQLBot): 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
 
