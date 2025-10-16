@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2025-10-15
+# 🌅 Daily Digest for 2025-10-16
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +26°C, Wind: ←12km/h, Humidity: 74%
+📍 Taipei 天氣：Weather: Clear, Temp: +83°F, Wind: ←6mph, Humidity: 70%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,10 +10,10 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：30.355
+💱 美元兌台幣現金買入價：30.23
 
 🔥 GitHub Trending 今日熱門：
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial): Anthropic's Interactive Prompt Engineering Tutorial
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-- [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars): 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+- [jingyaogong/minimind](https://github.com/jingyaogong/minimind): 🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+- [nitrojs/nitro](https://github.com/nitrojs/nitro): Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
 
