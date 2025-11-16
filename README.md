@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2025-11-15
+# 🌅 Daily Digest for 2025-11-16
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +72°F, Wind: ←9mph, Humidity: 73%
+📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +24°C, Wind: ←13km/h, Humidity: 78%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
