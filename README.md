@@ -1,14 +1,14 @@
-# 🌅 Daily Digest for 2025-11-22
+# 🌅 Daily Digest for 2025-11-23
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +20°C, Wind: ←16km/h, Humidity: 68%
-> 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +22°C, Wind: ←12km/h, Humidity: 88%
+> 「403 Client Error: Forbidden for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
-401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
+403 Client Error: Forbidden for url: https://free.v36.cm/v1/chat/completions
 
 ## 🧠 冷知識一則
-401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
+403 Client Error: Forbidden for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
 💱 美元兌台幣現金買入價：31.02
 
