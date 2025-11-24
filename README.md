@@ -1,19 +1,19 @@
-# 🌅 Daily Digest for 2025-11-23
+# 🌅 Daily Digest for 2025-11-24
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +22°C, Wind: ←12km/h, Humidity: 88%
-> 「403 Client Error: Forbidden for url: https://free.v36.cm/v1/chat/completions」
+❌ 錯誤：HTTPSConnectionPool(host='wttr.in', port=443): Max retries exceeded with url: /Taipei?format=Weather:+%25C,+Temp:+%25t,+Wind:+%25w,+Humidity:+%25h (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe7184ac2d0>, 'Connection to wttr.in timed out. (connect timeout=None)'))
+> 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
-403 Client Error: Forbidden for url: https://free.v36.cm/v1/chat/completions
+401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 
 ## 🧠 冷知識一則
-403 Client Error: Forbidden for url: https://free.v36.cm/v1/chat/completions
+401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31.02
+💱 美元兌台幣現金買入價：31
 
 🔥 GitHub Trending 今日熱門：
-- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar): 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar): 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
 - [google/adk-go](https://github.com/google/adk-go): An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): 所有小初高、大学PDF教材。
 
