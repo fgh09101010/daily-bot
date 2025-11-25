@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2025-11-24
+# 🌅 Daily Digest for 2025-11-25
 
 ## 🌤️ 今日天氣小語
-❌ 錯誤：HTTPSConnectionPool(host='wttr.in', port=443): Max retries exceeded with url: /Taipei?format=Weather:+%25C,+Temp:+%25t,+Wind:+%25w,+Humidity:+%25h (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe7184ac2d0>, 'Connection to wttr.in timed out. (connect timeout=None)'))
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +21°C, Wind: ↙10km/h, Humidity: 53%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,7 +10,7 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31
+💱 美元兌台幣現金買入價：31.035
 
 🔥 GitHub Trending 今日熱門：
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar): 🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
