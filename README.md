@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2025-11-30
+# 🌅 Daily Digest for 2025-12-01
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Sunny, Temp: +68°F, Wind: ↖4mph, Humidity: 83%
+📍 Taipei 天氣：Weather: Rain shower, Temp: +21°C, Wind: →6km/h, Humidity: 94%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
