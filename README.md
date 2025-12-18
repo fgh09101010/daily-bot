@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2025-12-17
+# 🌅 Daily Digest for 2025-12-18
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +65°F, Wind: ←4mph, Humidity: 94%
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +68°F, Wind: ←10mph, Humidity: 73%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,10 +10,10 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31.07
+💱 美元兌台幣現金買入價：31.135
 
 🔥 GitHub Trending 今日熱門：
-- [simstudioai/sim](https://github.com/simstudioai/sim): Open-source platform to build and deploy AI agent workflows.
-- [ZJU-LLMs/Foundations-of-LLMs](https://github.com/ZJU-LLMs/Foundations-of-LLMs): A book for Learning the Foundations of LLMs
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox): SoTA open-source TTS
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): An AI Hedge Fund Team
 
