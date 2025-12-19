@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2025-12-18
+# 🌅 Daily Digest for 2025-12-19
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +68°F, Wind: ←10mph, Humidity: 73%
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +69°F, Wind: ↑3mph, Humidity: 88%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,10 +10,10 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31.135
+💱 美元兌台幣現金買入價：31.115
 
 🔥 GitHub Trending 今日熱門：
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox): SoTA open-source TTS
+- [anthropics/claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund): An AI Hedge Fund Team
+- [astral-sh/ty](https://github.com/astral-sh/ty): An extremely fast Python type checker and language server, written in Rust.
 
