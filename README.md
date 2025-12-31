@@ -1,19 +1,19 @@
-# 🌅 Daily Digest for 2025-12-30
+# 🌅 Daily Digest for 2025-12-31
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Light rain, Temp: +67°F, Wind: ↘2mph, Humidity: 88%
-> 「HTTPSConnectionPool(host='free.v36.cm', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<HTTPSConnection(host='free.v36.cm', port=443) at 0x7f2851bca090>, 'Connection to free.v36.cm timed out. (connect timeout=None)'))」
+❌ 錯誤：('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+> 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
-HTTPSConnectionPool(host='free.v36.cm', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<HTTPSConnection(host='free.v36.cm', port=443) at 0x7f2851c97e50>, 'Connection to free.v36.cm timed out. (connect timeout=None)'))
+401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 
 ## 🧠 冷知識一則
-HTTPSConnectionPool(host='free.v36.cm', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<HTTPSConnection(host='free.v36.cm', port=443) at 0x7f2851bd4690>, 'Connection to free.v36.cm timed out. (connect timeout=None)'))
+401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31.03
+💱 美元兌台幣現金買入價：30.975
 
 🔥 GitHub Trending 今日熱門：
+- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Codex or any coding agent
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean): Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-- [RustPython/RustPython](https://github.com/RustPython/RustPython): A Python Interpreter written in Rust
-- [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube): 無描述
 
