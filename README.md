@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2025-12-31
+# 🌅 Daily Digest for 2026-01-01
 
 ## 🌤️ 今日天氣小語
-❌ 錯誤：('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+📍 Taipei 天氣：Weather: Light rain, Temp: +16°C, Wind: ↙14km/h, Humidity: 94%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,10 +10,10 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：30.975
+💱 美元兌台幣現金買入價：31.02
 
 🔥 GitHub Trending 今日熱門：
-- [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban): Get 10X more out of Claude Code, Codex or any coding agent
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-- [QuantConnect/Lean](https://github.com/QuantConnect/Lean): Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+- [afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC): Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+- [google-gemini/computer-use-preview](https://github.com/google-gemini/computer-use-preview): 無描述
+- [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book): Introduction to Machine Learning Systems
 
