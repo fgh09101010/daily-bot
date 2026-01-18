@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-01-17
+# 🌅 Daily Digest for 2026-01-18
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +18°C, Wind: ←7km/h, Humidity: 88%
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +63°F, Wind: ←7mph, Humidity: 94%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 美元兌台幣現金買入價：31.155
 
 🔥 GitHub Trending 今日熱門：
+- [eigent-ai/eigent](https://github.com/eigent-ai/eigent): Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
 - [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
-- [Gentleman-Programming/Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots): My personal configuration for LazyVim !
-- [google/langextract](https://github.com/google/langextract): A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+- [puckeditor/puck](https://github.com/puckeditor/puck): The visual editor for React with AI superpowers
 
