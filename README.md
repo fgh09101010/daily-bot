@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-02-06
+# 🌅 Daily Digest for 2026-02-07
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +19°C, Wind: →4km/h, Humidity: 88%
+📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +14°C, Wind: ↙15km/h, Humidity: 84%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,10 +10,10 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31.27
+💱 美元兌台幣現金買入價：31.28
 
 🔥 GitHub Trending 今日熱門：
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop): The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [openai/skills](https://github.com/openai/skills): Skills Catalog for Codex
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop): The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm): Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 
