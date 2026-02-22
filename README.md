@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-02-21
+# 🌅 Daily Digest for 2026-02-22
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Sunny, Temp: +20°C, Wind: ↑4km/h, Humidity: 70%
+📍 Taipei 天氣：Weather: Sunny, Temp: +18°C, Wind: ↗4km/h, Humidity: 88%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -14,6 +14,6 @@
 
 🔥 GitHub Trending 今日熱門：
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi): ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun): Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
-- [HailToDodongo/pyrite64](https://github.com/HailToDodongo/pyrite64): N64 Game-Engine and Editor using libdragon & tiny3d
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus): GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+- [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
 
