@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-02-23
+# 🌅 Daily Digest for 2026-02-24
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +20°C, Wind: ←14km/h, Humidity: 84%
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +21°C, Wind: ↘4km/h, Humidity: 83%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,10 +10,10 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31.085
+💱 美元兌台幣現金買入價：31.055
 
 🔥 GitHub Trending 今日熱門：
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [huggingface/skills](https://github.com/huggingface/skills): 無描述
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi): ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-- [anthropics/claude-code](https://github.com/anthropics/claude-code): Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB): Financial data platform for analysts, quants and AI agents.
 
