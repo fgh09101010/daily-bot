@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-02-27
+# 🌅 Daily Digest for 2026-02-28
 
 ## 🌤️ 今日天氣小語
-❌ 錯誤：HTTPSConnectionPool(host='wttr.in', port=443): Max retries exceeded with url: /Taipei?format=Weather:+%25C,+Temp:+%25t,+Wind:+%25w,+Humidity:+%25h (Caused by SSLError(SSLError(1, '[SSL: DECRYPTION_FAILED_OR_BAD_RECORD_MAC] decryption failed or bad record mac (_ssl.c:2590)')))
+❌ 錯誤：('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 美元兌台幣現金買入價：30.82
 
 🔥 GitHub Trending 今日熱門：
-- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB): Development at the speed of light
-- [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
-- [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering): A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+- [ruvnet/wifi-densepose](https://github.com/ruvnet/wifi-densepose): Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow): An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine): Fast and accurate automatic speech recognition (ASR) for edge devices
 
