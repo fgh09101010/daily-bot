@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-03-28
+# 🌅 Daily Digest for 2026-03-29
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +21Â°C, Wind: â13km/h, Humidity: 88%
+📍 Taipei 天氣：Weather: Mist, Temp: +20Â°C, Wind: â6km/h, Humidity: 100%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 美元兌台幣現金買入價：31.48
 
 🔥 GitHub Trending 今日熱門：
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill): AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): real time face swap and one-click video deepfake with only a single image
+- [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
 - [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2): The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 
