@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-04-06
+# 🌅 Daily Digest for 2026-04-07
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Light rain shower, Temp: +72Â°F, Wind: â3mph, Humidity: 100%
+❌ 無法取得天氣資料
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,10 +10,10 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31.58
+💱 美元兌台幣現金買入價：31.565
 
 🔥 GitHub Trending 今日熱門：
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus): GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 - [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery): A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-- [Blaizzy/mlx-vlm](https://github.com/Blaizzy/mlx-vlm): MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen): Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM): 無描述
 
