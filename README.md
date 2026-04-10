@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-04-09
+# 🌅 Daily Digest for 2026-04-10
 
 ## 🌤️ 今日天氣小語
-❌ 無法取得天氣資料
+📍 Taipei 天氣：Weather: Sunny, Temp: +80Â°F, Wind: â2mph, Humidity: 67%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,10 +10,10 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31.4
+💱 美元兌台幣現金買入價：31.345
 
 🔥 GitHub Trending 今日熱門：
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills): 無描述
-- [TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine): A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
-- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery): A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent): The agent that grows with you
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills): A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor): "DeepTutor: Agent-Native Personalized Learning Assistant"
 
