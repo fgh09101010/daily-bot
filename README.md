@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-04-19
+# 🌅 Daily Digest for 2026-04-20
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +76Â°F, Wind: â4mph, Humidity: 71%
+📍 Taipei 天氣：Weather: Sunny, Temp: +78Â°F, Wind: â2mph, Humidity: 64%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,10 +10,10 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31.18
+💱 美元兌台幣現金買入價：31.12
 
 🔥 GitHub Trending 今日熱門：
+- [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal): FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
 - [thunderbird/thunderbolt](https://github.com/thunderbird/thunderbolt): AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-- [BasedHardware/omi](https://github.com/BasedHardware/omi): AI that sees your screen, listens to your conversations and tells you what to do
-- [openai/openai-agents-python](https://github.com/openai/openai-agents-python): A lightweight, powerful framework for multi-agent workflows
+- [tractorjuice/arc-kit](https://github.com/tractorjuice/arc-kit): Enterprise Architecture Governance & Vendor Procurement Toolkit
 
