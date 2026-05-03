@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-05-02
+# 🌅 Daily Digest for 2026-05-03
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly cloudy, Temp: +79°F, Wind: ↖3mph, Humidity: 70%
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +79°F, Wind: ↗2mph, Humidity: 74%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -14,6 +14,6 @@
 
 🔥 GitHub Trending 今日熱門：
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents): TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-- [warpdotdev/warp](https://github.com/warpdotdev/warp): Warp is an agentic development environment, born out of the terminal.
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo): 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+- [browserbase/skills](https://github.com/browserbase/skills): Claude Agent SDK with a web browsing tool
 
