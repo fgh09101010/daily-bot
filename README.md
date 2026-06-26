@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-06-25
+# 🌅 Daily Digest for 2026-06-26
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Rain With Thunderstorm, Heavy Rain Shower, Temp: +79°F, Wind: →13mph, Humidity: 100%
+📍 Taipei 天氣：Weather: Rain Shower, Temp: +77°F, Wind: ↓3mph, Humidity: 100%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -10,10 +10,10 @@
 ## 🧠 冷知識一則
 401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
-💱 美元兌台幣現金買入價：31.45
+💱 美元兌台幣現金買入價：31.44
 
 🔥 GitHub Trending 今日熱門：
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md): A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage): World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
-- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis): LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.
-- [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire): AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.
 
