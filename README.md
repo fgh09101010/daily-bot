@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-07-12
+# 🌅 Daily Digest for 2026-07-13
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Light Rain, Temp: +81°F, Wind: ↑2mph, Humidity: 94%
+📍 Taipei 天氣：Weather: Partly cloudy, Temp: +88°F, Wind: ↘2mph, Humidity: 84%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 無法取得美元匯率。
 
 🔥 GitHub Trending 今日熱門：
-- [catchorg/Catch2](https://github.com/catchorg/Catch2): A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-- [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp): Abseil Common Libraries (C++)
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates): CLI tool for configuring and monitoring Claude Code
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard): The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+- [wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP): This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+- [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading): "Vibe-Trading: Your Personal Trading Agent"
 
