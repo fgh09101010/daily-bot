@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-07-24
+# 🌅 Daily Digest for 2026-07-25
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Partly Cloudy , Temp: +87°F, Wind: ↖3mph, Humidity: 64%
+📍 Taipei 天氣：Weather: Sunny, Temp: +88°F, Wind: ↖8mph, Humidity: 59%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -15,5 +15,5 @@
 🔥 GitHub Trending 今日熱門：
 - [block/buzz](https://github.com/block/buzz): A hive mind communication platform
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor): Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos): Kronos: A Foundation Model for the Language of Financial Markets
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills): A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
