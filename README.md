@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-08-20
+# 🌅 Daily Digest for 2026-08-21
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Sunny, Temp: +80°F, Wind: ←4mph, Humidity: 78%
+📍 Taipei 天氣：Weather: Sunny, Temp: +82°F, Wind: ←2mph, Humidity: 77%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 無法取得美元匯率。
 
 🔥 GitHub Trending 今日熱門：
-- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo): 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking): Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin): local multi-agent harness
+- [modular/modular](https://github.com/modular/modular): The Modular Platform (includes MAX & Mojo)
+- [mattpocock/skills](https://github.com/mattpocock/skills): Skills for Real Engineers. Straight from my .agents directory.
+- [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi): ⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.
 
