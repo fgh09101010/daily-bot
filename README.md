@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-09-09
+# 🌅 Daily Digest for 2026-09-10
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +77°F, Wind: ↙3mph, Humidity: 70%
+📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +78°F, Wind: ←6mph, Humidity: 78%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -14,6 +14,6 @@
 
 🔥 GitHub Trending 今日熱門：
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd): A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design): 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
-- [openai/skills](https://github.com/openai/skills): Skills Catalog for Codex
+- [Tencent/teamai-cli](https://github.com/Tencent/teamai-cli): Make Every Team AI Native
+- [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
 
