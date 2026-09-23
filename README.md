@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-09-22
+# 🌅 Daily Digest for 2026-09-23
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Sunny, Temp: +80°F, Wind: ↙7mph, Humidity: 60%
+📍 Taipei 天氣：Weather: Sunny, Temp: +80°F, Wind: ←8mph, Humidity: 59%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 無法取得美元匯率。
 
 🔥 GitHub Trending 今日熱門：
-- [BuilderIO/agent-native](https://github.com/BuilderIO/agent-native): A framework for building agentic apps
-- [trycua/cua](https://github.com/trycua/cua): Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-- [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock): OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
+- [anthropics/financial-services](https://github.com/anthropics/financial-services): 無描述
+- [agent-substrate/substrate](https://github.com/agent-substrate/substrate): Agent Substrate: the core system
+- [dream-num/univer](https://github.com/dream-num/univer): The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 
