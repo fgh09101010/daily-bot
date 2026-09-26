@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-09-25
+# 🌅 Daily Digest for 2026-09-26
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Sunny, Temp: +84°F, Wind: ↙2mph, Humidity: 62%
+📍 Taipei 天氣：Weather: Sunny, Temp: +84°F, Wind: →5mph, Humidity: 62%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 無法取得美元匯率。
 
 🔥 GitHub Trending 今日熱門：
-- [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch): Learn it. Build it. Ship it for others.
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip): The open-source app everyone uses to manage agents at work
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official): Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight): Hindsight: Agent Memory That Learns
-- [dream-num/univer](https://github.com/dream-num/univer): The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 
