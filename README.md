@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-10-03
+# 🌅 Daily Digest for 2026-10-04
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +77°F, Wind: ←7mph, Humidity: 87%
+📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +89°F, Wind: ↙2mph, Humidity: 56%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 無法取得美元匯率。
 
 🔥 GitHub Trending 今日熱門：
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach): Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman): 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-- [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable): The design language that makes your AI harness better at design.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC): The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 
