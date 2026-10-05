@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-10-04
+# 🌅 Daily Digest for 2026-10-05
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +89°F, Wind: ↙2mph, Humidity: 56%
+📍 Taipei 天氣：Weather: Light rain shower, Temp: +80°F, Wind: ↙9mph, Humidity: 78%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 無法取得美元匯率。
 
 🔥 GitHub Trending 今日熱門：
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail): Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [tester-army/e2e](https://github.com/tester-army/e2e): Next generation e2e testing framework for web and mobile apps.
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable): The design language that makes your AI harness better at design.
-- [affaan-m/ECC](https://github.com/affaan-m/ECC): The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills): Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 
