@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-10-07
+# 🌅 Daily Digest for 2026-10-08
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Cloudy , Temp: +76°F, Wind: ←11mph, Humidity: 57%
+📍 Taipei 天氣：Weather: Partly Cloudy , Temp: +79°F, Wind: ←12mph, Humidity: 54%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 無法取得美元匯率。
 
 🔥 GitHub Trending 今日熱門：
-- [tester-army/e2e](https://github.com/tester-army/e2e): Next generation e2e testing framework for web and mobile apps.
+- [morluto/rea](https://github.com/morluto/rea): Reverse engineer anything with agents, from app behavior down to native binaries.
 - [mattpocock/skills](https://github.com/mattpocock/skills): Skills for Real Engineers. Straight from my .agents directory.
-- [earthtojake/text-to-cad](https://github.com/earthtojake/text-to-cad): Give your agent CAD superpowers.
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5): Tool for automatic PS5 executables porting to Linux and Windows
 
