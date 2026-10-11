@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-10-10
+# 🌅 Daily Digest for 2026-10-11
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +76°F, Wind: ←6mph, Humidity: 81%
+📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +79°F, Wind: ↙7mph, Humidity: 64%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -15,5 +15,5 @@
 🔥 GitHub Trending 今日熱門：
 - [morluto/rea](https://github.com/morluto/rea): Reverse engineer anything with agents, from app behavior down to native binaries.
 - [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5): Tool for automatic PS5 executables porting to Linux and Windows
-- [mattpocock/skills](https://github.com/mattpocock/skills): Skills for Real Engineers. Straight from my .agents directory.
+- [storytold/artcraft](https://github.com/storytold/artcraft): ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 
