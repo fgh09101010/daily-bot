@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-10-25
+# 🌅 Daily Digest for 2026-10-26
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Overcast , Temp: +75°F, Wind: →3mph, Humidity: 81%
+📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +74°F, Wind: ↙8mph, Humidity: 84%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 無法取得美元匯率。
 
 🔥 GitHub Trending 今日熱門：
-- [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill): A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings
-- [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell): OpenShell is the safe, private runtime for autonomous AI agents.
-- [aws/agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws): Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS
+- [makecindy/cindy](https://github.com/makecindy/cindy): Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark): Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio): VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.
 
