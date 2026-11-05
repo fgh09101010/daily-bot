@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-11-04
+# 🌅 Daily Digest for 2026-11-05
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Sunny, Temp: +84°F, Wind: ←4mph, Humidity: 57%
+📍 Taipei 天氣：Weather: Sunny, Temp: +85°F, Wind: ↘4mph, Humidity: 56%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 無法取得美元匯率。
 
 🔥 GitHub Trending 今日熱門：
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem): Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More
-- [vercel-labs/agent-desktop](https://github.com/vercel-labs/agent-desktop): Computer use CLI for AI agents
+- [NVIDIA/auto-ontology](https://github.com/NVIDIA/auto-ontology): Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk): Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
+- [mattpocock/skills](https://github.com/mattpocock/skills): Skills for Real Engineers. Straight from my .agents directory.
 
