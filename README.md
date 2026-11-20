@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-11-19
+# 🌅 Daily Digest for 2026-11-20
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Light rain shower, Temp: +62°F, Wind: ↙9mph, Humidity: 82%
+📍 Taipei 天氣：Weather: Overcast , Temp: +63°F, Wind: ↙10mph, Humidity: 58%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
@@ -13,7 +13,7 @@
 💱 無法取得美元匯率。
 
 🔥 GitHub Trending 今日熱門：
-- [cursor/plugins](https://github.com/cursor/plugins): Cursor plugin specification and official plugins
+- [elementalsouls/Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter): A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.
+- [obra/superpowers](https://github.com/obra/superpowers): An agentic skills framework & software development methodology that works.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything): "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub:https://clianything.cc/
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill): AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
 
