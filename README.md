@@ -1,7 +1,7 @@
-# 🌅 Daily Digest for 2026-11-20
+# 🌅 Daily Digest for 2026-11-21
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Overcast , Temp: +63°F, Wind: ↙10mph, Humidity: 58%
+📍 Taipei 天氣：Weather: Partly Cloudy , Temp: +68°F, Wind: ↙11mph, Humidity: 47%
 > 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
