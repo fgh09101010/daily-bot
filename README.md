@@ -1,14 +1,14 @@
-# 🌅 Daily Digest for 2026-11-24
+# 🌅 Daily Digest for 2026-11-25
 
 ## 🌤️ 今日天氣小語
-📍 Taipei 天氣：Weather: Light drizzle, Temp: +63°F, Wind: ↙8mph, Humidity: 82%
-> 「401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions」
+📍 Taipei 天氣：Weather: Patchy rain nearby, Temp: +66°F, Wind: ←13mph, Humidity: 65%
+> 「403 Client Error: Forbidden for url: https://free.v36.cm/v1/chat/completions」
 
 ## 💬 人生建議
-401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
+403 Client Error: Forbidden for url: https://free.v36.cm/v1/chat/completions
 
 ## 🧠 冷知識一則
-401 Client Error: Unauthorized for url: https://free.v36.cm/v1/chat/completions
+403 Client Error: Forbidden for url: https://free.v36.cm/v1/chat/completions
 ## 💱 今日匯率
 💱 無法取得美元匯率。
 
